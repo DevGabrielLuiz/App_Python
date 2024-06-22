@@ -1,0 +1,6 @@
+GridLayout: 
+    Pega o tamanho da tela e divide proporcionalmente todos os itens. 
+    Ele se auto-redimensiona de acordo com as mudanças.
+    preciso passar a quantidade de colunas.
+
+    Para editar uma caixa de texto deve ser atribuído um ID diferente para cada pessoa.
