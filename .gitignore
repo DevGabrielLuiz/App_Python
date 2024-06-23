@@ -19,6 +19,8 @@
 /Packages
 /.htaccess
 /index.php
+/*.txt
 # Ignore temp directory.
 /typo3temp/
+
 /explicando.txt/
