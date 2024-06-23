@@ -5,7 +5,7 @@ from kivy.lang import Builder
 import requests
 # criar aplicativo 
 
-GUI = Builder.load_file('tela.kv') 
+GUI = Builder.load_file("tela.kv") 
 
 class MeuAplicativo(App):    # isso já é suficiente para criar o aplicativo
     def build(self):
