@@ -22,5 +22,5 @@
 # Ignore temp directory.
 /typo3temp/
 /explicando.txt
-/mainProfessor.py
-/telaProfessor.kv
+/mainProfessor.py/
+/telaProfessor.kv/
